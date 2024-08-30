@@ -11,9 +11,9 @@ from email.mime.text import MIMEText as MT
 from email.mime.multipart import MIMEMultipart as MM
 
 #Store the email addresses for the reciever, and the sender. Also store the senders email password
-receiver = 'aarav.dhp@gmail.com'
-sender = 'apptest7654@gmail.com'
-sender_password = 'garbage@7654'
+receiver = 'EXAMPLE EMAIL'
+sender = 'EXAMPLE EMAIL'
+sender_password = 'EXAMPLE PWD'
 
 #Create a MIMEMultipart Object 
 msg = MM()
